@@ -3,7 +3,7 @@ package ordena;
 
 import ordena.Numero;
 
-public class Principal {
+public class PrincipalNumero {
 
 	public static void main(String[] args) {
 		
